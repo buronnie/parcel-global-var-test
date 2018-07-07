@@ -1,1 +1,1 @@
-module.exports = 'hello from module index.js!';
+export const bar = 5;
